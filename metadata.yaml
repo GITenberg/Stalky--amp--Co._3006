@@ -1,0 +1,32 @@
+_repo: Stalky--amp--Co._3006
+_version: 0.0.1
+alternative_title: Stalky and Company
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: In ambush -- Slaves of the lamp, pt. I -- An unsavory interlude --
+  The impressionists -- The moral reformers -- A little prep -- The flag of their
+  country -- The last term -- Slaves of the lamp, pt. II.
+title: Stalky & Co.
+url: http://www.gutenberg.org/ebooks/3006
